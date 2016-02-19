@@ -1,7 +1,7 @@
 # lecture 3.6, slide 2
 # bisection search for square root
 
-x = 95961
+x = 12345
 epsilon = 0.01
 numGuesses = 0
 low = 0.0
